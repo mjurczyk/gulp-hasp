@@ -6,7 +6,7 @@ Run [Hasp](https://github.com/djanowski/hasp) precompiler in your gulp pipeline.
 
 ```js
 var gulp = require('gulp');
-var hasp = require('../index.js');
+var hasp = require('gulp-hasp-css');
 
 gulp.task('haspify', function () {
   gulp.src('src/*.hcss')
