@@ -1,0 +1,27 @@
+{
+  "name": "gulp-hasp-css",
+  "version": "1.0.0",
+  "description": "hasp CSS precompiler (gulp task)",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./lib/getHasp.js",
+    "test": "cd example && npm start"
+  },
+  "keywords": [
+    "gruntplugin",
+    "hasp",
+    "css"
+  ],
+  "author": "mjurczyk",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "devDependencies": {
+    "download": "^4.2.0",
+    "gulp-util": "^3.0.6",
+    "rename": "^1.0.3",
+    "through2": "^2.0.0"
+  }
+}
