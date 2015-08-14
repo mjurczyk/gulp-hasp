@@ -1,6 +1,6 @@
 {
   "name": "gulp-hasp-css",
-  "version": "1.0.0",
+  "version": "1.0.0a",
   "description": "hasp CSS precompiler (gulp plugin)",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,6 @@
     "gulp-util": "^3.0.6",
     "rename": "^1.0.3",
     "through2": "^2.0.0"
-  }
+  },
+  "repository": "https://github.com/mjurczyk/grunt-hasp"
 }

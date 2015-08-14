@@ -29,4 +29,4 @@ npm test
 ___
 *original hasp repo [link](https://github.com/djanowski/hasp)*
 
-*for Grunt task see [grunt-hasp-css]()*
+*for Grunt task see [grunt-hasp-css](https://www.npmjs.com/package/grunt-hasp-css)*
