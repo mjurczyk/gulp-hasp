@@ -1,7 +1,7 @@
 {
   "name": "gulp-hasp-css",
   "version": "1.0.0",
-  "description": "hasp CSS precompiler (gulp task)",
+  "description": "hasp CSS precompiler (gulp plugin)",
   "main": "index.js",
   "scripts": {
     "postinstall": "node ./lib/getHasp.js",
